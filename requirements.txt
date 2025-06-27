@@ -1,0 +1,7 @@
+Flask
+SpeechRecognition
+PyAudio
+pyttsx3
+pyautogui
+pynput
+eel
